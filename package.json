@@ -30,9 +30,9 @@
 	"homepage": "https://github.com/forge-42/open-source-stack#readme",
 	"devDependencies": {
 		"@biomejs/biome": "^1.9.4",
-		"@changesets/cli": "^2.27.7",
-		"@types/node": "^20.12.7",
-		"lefthook": "^1.7.2"
+		"@changesets/cli": "^2.29.0",
+		"@types/node": "^20.17.30",
+		"lefthook": "^1.11.10"
 	},
 	"packageManager": "pnpm@10.6.5",
 	"engines": {
